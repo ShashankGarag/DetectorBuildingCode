@@ -1,0 +1,1 @@
+This is the Arduino program developed for the 2022-2023 Science Olympiad season's detector building event. This code allows for the output of the force sensitive resistor to function as a weigh scale to measure the mass of an object.
